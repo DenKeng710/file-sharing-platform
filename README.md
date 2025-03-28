@@ -1,3 +1,4 @@
+![Status](https://img.shields.io/badge/status-completed-green)
 haring Platform Deployment)
 
 ## 项目概述
