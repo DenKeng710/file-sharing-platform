@@ -31,3 +31,6 @@ haring Platform Deployment)
 ## 代码亮点
 - 包含Dockerfile和Nginx配置文件示例。
 - Shell备份脚本可供参考。
+
+## 运行环境截图
+![VMware and Nagios Setup](images/NagiosMonitoredNacos.png)
