@@ -2,7 +2,7 @@
 haring Platform Deployment)
 
 ## 项目概述
-在重庆远智科技实习期间，我部署了一个内部文件共享平台，支持员工文件上传、下载及多部门协作，目标是提供高效、稳定的文件访问服务。
+在某公司实习期间，我部署了一个内部文件共享平台，支持员工文件上传、下载及多部门协作，目标是提供高效、稳定的文件访问服务。
 
 ## 技术栈
 - **操作系统**: CentOS 7  
@@ -33,5 +33,4 @@ haring Platform Deployment)
 - 包含Dockerfile和Nginx配置文件示例。
 - Shell备份脚本可供参考。
 
-## 运行环境截图
-![VMware and Nagios Setup](images/NagiosMonitoredNacos.png)
+
